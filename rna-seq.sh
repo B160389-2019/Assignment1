@@ -12,3 +12,4 @@ cp /localdisk/data/BPSM/Assignment1/Tbb_genome/Tb927_genome.fasta.gz /localdisk/
 gunzip Tb927_genome.fasta.gz 
 #Buliding index for bowtie2
 bowtie2-build Tb927_genome.fasta index 
+building index
