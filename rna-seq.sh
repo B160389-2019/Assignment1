@@ -13,3 +13,4 @@ gunzip Tb927_genome.fasta.gz
 #Buliding index for bowtie2
 bowtie2-build Tb927_genome.fasta index 
 building index
+#Generate file for stastical analysis
